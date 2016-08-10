@@ -3,8 +3,8 @@ You only need resize_sd.sh and install_snapclient.sh
 Download both install scripts to a fresh piCore installation in the user's home:
 ```
 $ cd ~
-$ wget https://github.com/bjwelker/Snapcast-piCore/raw/master/install_snapclient.sh
-$ wget https://github.com/bjwelker/Snapcast-piCore/raw/master/resize_sd.sh
+$ wget https://github.com/mwick83/Snapcast-piCore/raw/master/install_snapclient.sh
+$ wget https://github.com/mwick83/Snapcast-piCore/raw/master/resize_sd.sh
 ```
 Make the script executable:
 ```
