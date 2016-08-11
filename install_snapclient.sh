@@ -1,6 +1,6 @@
 #!/bin/sh
 REPOSITORY_AVAHI="http://ralph_irving.users.sourceforge.net/pico"
-REPOSITORY_SNAPCAST="https://github.com/bjwelker/Snapcast-piCore/raw/master"
+REPOSITORY_SNAPCAST="https://github.com/mwick83/Snapcast-piCore/raw/master"
 WGET="sudo /bin/busybox wget"
 W="/bin/busybox wget"
 sudo rm -f /opt/tcemirror
